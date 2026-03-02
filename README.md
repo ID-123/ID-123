@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Jamh (yes, jam with h), I'm a 23 y/o system technician who's currently diving into coding and software development. I like videogames, music and to hangout doing absolute nothing relevant. I'm a good team worker, a person that likes listening ideas and sharing differents PoV, with a lot of pacience to bear almost any situation that arrives.
+
+
 <!--
 **ID-123/ID-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
